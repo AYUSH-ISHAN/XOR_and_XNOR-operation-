@@ -17,3 +17,4 @@ X1(first bit) | X2(second bit) | X3(task) | Y
 1 | 1 | 1 | 1
 
 
+While the task is simple but I have some extra things to explore more on this project.
